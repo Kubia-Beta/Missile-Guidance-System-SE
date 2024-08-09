@@ -1,0 +1,7 @@
+
+*.vsidx
+/Hamming/.vs
+*.sln
+*.vcxproj
+*.filters
+*.user
